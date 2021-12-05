@@ -27,6 +27,6 @@ def circulate():
 ~~~
 
 ## Output:
-![Ex2](ex_2.png)
+![Ex_2](ex_2.png)
 
 ## Result:
